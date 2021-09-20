@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.com/braintree-go/braintree-go.png?branch=master)](https://travis-ci.com/braintree-go/braintree-go)
 [![Go Report Card](https://goreportcard.com/badge/github.com/braintree-go/braintree-go)](https://goreportcard.com/report/github.com/braintree-go/braintree-go)
 
-A Go client library for [Braintree](https://www.braintreepayments.com), the payments company behind awesome companies like GitHub, Heroku, and 37signals.
+A Go client library for [Braintree](https://www.braintreepayments.com), the payments company behind awesome companies like GitHub, Heroku, and 37signals. Forked by Subito-it.
 
 This is *not* an official client library. Braintree maintains server-side libraries for [Ruby](https://www.github.com/braintree/braintree_ruby), [Python](https://www.github.com/braintree/braintree_python), [PHP](https://www.github.com/braintree/braintree_php), [Perl](https://www.github.com/braintree/braintree_perl), [Node](https://www.github.com/braintree/braintree_node), [C#](https://www.github.com/braintree/braintree_dotnet) and [Java](https://www.github.com/braintree/braintree_java), but not Go. This package implements the core functionality of the other client libraries, but it's missing a few advanced features.
 
