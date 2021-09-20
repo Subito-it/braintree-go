@@ -3,5 +3,14 @@ braintree.sublime-workspace
 braintree.sublime-project
 .ruby-version
 .env
-.idea
+.DS_Store
+*~
+*.xml
+*.cov
 .vscode
+.idea
+debug.test
+debug
+*pyc
+bin/
+dashboards/out/*
