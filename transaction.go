@@ -100,6 +100,7 @@ type Transaction struct {
 	PurchaseOrderNumber          string                    `xml:"purchase-order-number"`
 	Disputes                     []*Dispute                `xml:"disputes>dispute"`
 	AuthorizationExpiresAt       *time.Time                `xml:"authorization-expires-at"`
+	ScaExemptionRequestedReason  string                    `xml:"sca-exemption-requested"`
 }
 
 type TransactionRequest struct {
